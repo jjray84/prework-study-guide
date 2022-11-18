@@ -1,2 +1,3 @@
 # prework-study-guide
-A study guide for prework
+
+Boot Camp prework study guide for Students.
