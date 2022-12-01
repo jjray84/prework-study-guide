@@ -1,6 +1,6 @@
-var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
-for(var topics = 0; topics < topics.length; x++){
-    console.log(topics[0]);
+var topics = ["HTML", "CSS", "Git", "JavaScript"];
+for(var x = 0; topics < topics.length; x++) {
+    console.log(topics[x]);
 }
 /*
 
