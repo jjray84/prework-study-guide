@@ -10,3 +10,4 @@ Credits
 N/A
 
 License
+MIT License
